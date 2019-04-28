@@ -9,6 +9,7 @@ Section: Tweaks
 Description: Track you friends on WhatsApp Messenger!
 Maintainer: Talha Balaj <talhabalaj@hotmail.com>
 Filename: debs/com.f0u4d.onlinenotify.deb
+Depiction: /1
 Size: 522434
 MD5sum: 2f3b1a4c2d2953dca0840881ce07c338
 SHA1: 4f6a97d760fed8f7e2a71bb9c2857bc9c5f79298
