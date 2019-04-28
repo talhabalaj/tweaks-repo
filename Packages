@@ -1,0 +1,15 @@
+Package: com.f0u4d.onlinenotify
+Name: OnlineNotify
+Version: 2.3.23
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap, com.f0u4d.watusitools
+Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb
+Architecture: iphoneos-arm
+Author: Fouad Raheb
+Section: Tweaks
+Description: Track you friends on WhatsApp Messenger!
+Maintainer: Talha Balaj <talhabalaj@hotmail.com>
+Filename: debs/com.f0u4d.onlinenotify.deb
+Size: 522434
+MD5sum: 2f3b1a4c2d2953dca0840881ce07c338
+SHA1: 4f6a97d760fed8f7e2a71bb9c2857bc9c5f79298
+SHA256: 821c22759484e81a822ed89d259c7c01cb59b2fa3d272697617009b9c917f5c4
