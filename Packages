@@ -4,12 +4,12 @@ Architecture: iphoneos-arm
 Maintainer: Talha Balaj
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap, com.f0u4d.watusitools
 Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb
-Filename: /Users/talha/Documents/Projects/tweaks-repo/debs/com.f0u4d.onlinenotify.deb
-Size: 361144
-MD5sum: 3f4acef0550a16092120b6372c2b280a
-SHA1: 2bbd84edfc65209b0673abff139078f887de4489
-SHA256: 332665f7237fcf7c50c6b7ef1686bfbdbee4bc80c8b35d6e89372f26712270aa
-Section: HYI - Tweaks
+Filename: ./debs/com.f0u4d.onlinenotify.deb
+Size: 361484
+MD5sum: 02311d29272f751fe8e5bc73cbf8b676
+SHA1: f472c1558fe0cb212de623063a639caa35d1e7ce
+SHA256: 77344eee89c17bfd34cfb9d401fe1cb6128aa043b4e23557cbf0f3849fe0e72f
+Section: Tweaks
 Homepage: https://talhabalaj.github.io/tweaks-repo/depictions/?p=com.f0u4d.onlinenotify
 Description: Track you friends on WhatsApp Messenger!
 Author: Fouad Raheb
