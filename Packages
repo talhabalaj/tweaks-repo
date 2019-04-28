@@ -1,18 +1,18 @@
 Package: com.f0u4d.onlinenotify
 Version: 2.3.23
 Architecture: iphoneos-arm
-Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Maintainer: Talha Balaj
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap, com.f0u4d.watusitools
 Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb
-Filename: ./debs/com.f0u4d.onlinenotify.deb
-Size: 522434
-MD5sum: 2f3b1a4c2d2953dca0840881ce07c338
-SHA1: 4f6a97d760fed8f7e2a71bb9c2857bc9c5f79298
-SHA256: 821c22759484e81a822ed89d259c7c01cb59b2fa3d272697617009b9c917f5c4
+Filename: debs/com.f0u4d.onlinenotify.deb
+Size: 361144
+MD5sum: 3f4acef0550a16092120b6372c2b280a
+SHA1: 2bbd84edfc65209b0673abff139078f887de4489
+SHA256: 332665f7237fcf7c50c6b7ef1686bfbdbee4bc80c8b35d6e89372f26712270aa
 Section: HYI - Tweaks
+Homepage: https://talhabalaj.github.io/tweaks-repo/depictions/?p=com.f0u4d.onlinenotify
 Description: Track you friends on WhatsApp Messenger!
-Author: Fouad Raheb <repo@hackyouriphone.org>
-Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=onlinenotify
-Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=onlinenotify
+Author: Fouad Raheb
+Depiction: https://talhabalaj.github.io/tweaks-repo/depictions/?p=com.f0u4d.onlinenotify
 Name: OnlineNotify
 
