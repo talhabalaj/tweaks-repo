@@ -5,10 +5,10 @@ Maintainer: Talha Balaj
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap, com.f0u4d.watusitools
 Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb
 Filename: ./debs/com.f0u4d.onlinenotify.deb
-Size: 361484
-MD5sum: 02311d29272f751fe8e5bc73cbf8b676
-SHA1: f472c1558fe0cb212de623063a639caa35d1e7ce
-SHA256: 77344eee89c17bfd34cfb9d401fe1cb6128aa043b4e23557cbf0f3849fe0e72f
+Size: 956
+MD5sum: 6620c4c2901119196c303597c217d90d
+SHA1: 0ece49bbc6accc3187e1a5ffdb39a708b8980a9e
+SHA256: 8e4f6bef746972241f49e307698ad2fa3a6d5b69bc044b431b2553e099e2456c
 Section: Tweaks
 Homepage: https://talhabalaj.github.io/tweaks-repo/depictions/?p=com.f0u4d.onlinenotify
 Description: Track you friends on WhatsApp Messenger!
